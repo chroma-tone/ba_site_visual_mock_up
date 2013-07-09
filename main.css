@@ -1,0 +1,70 @@
+h1 {
+font-size:1.5em;
+font-family: Tahoma, Geneva, sans-serif;
+
+
+}
+
+img {
+vertical-align:top;
+}
+
+#bodyContainer {
+width:900px;
+height:1200px;
+margin-left:auto;
+margin-right:auto;
+background-color:#ffffff;
+margin-top: 10px;
+background-repeat:no-repeat;
+background-image:url('images/bad_artifacts_text_01_spacecadet.png');
+display:block;
+} 
+
+#bodyContainer_01 {
+width:900px;
+height:1200px;
+margin-left:auto;
+margin-right:auto;
+background-color:#ffffff;
+margin-top: 20px;
+background-repeat:no-repeat;
+background-image:url(images/bad_artifacts_text_02_tightcrop_transBG.png);
+display:block;
+}
+
+#projectsBtn01 {
+width: 240px;
+height: 50px;
+background: url(images/projects_concepts_spacecadet_whitebg_half_sized.jpg) 0 0;
+display:inline-block;
+vertical-align:top;
+}
+
+#contactBtn01 {
+width: 230px;
+height: 50px;
+background: url(images/projects_concepts_spacecadet_whitebg_half_sized.jpg) 230px 0;
+vertical-align:top;
+display:inline-block;
+}
+
+#nav {
+padding-top: 400px;
+padding-left: 20px;
+padding-bottom: 50px;
+display:block;
+}
+
+#content {
+padding:10px;
+}
+
+.placeHolder {
+float:left;
+background-image:url("images/bg_tile_02.jpg");
+width:200px;
+height:200px;
+background-color:#1D2951;
+margin:10px
+}
